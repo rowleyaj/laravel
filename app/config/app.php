@@ -114,6 +114,7 @@ return array(
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
 		'BCA\LaravelInspect\LaravelInspectServiceProvider',
+		'Way\Console\GuardLaravelServiceProvider',
 	),
 
 	/*
