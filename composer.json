@@ -4,7 +4,8 @@
     "keywords": ["framework", "laravel"],
 	"require": {
 		"laravel/framework": "4.0.*",
-		"stripe/stripe-php": "dev-master"
+		"stripe/stripe-php": "dev-master",
+		"twilio/sdk": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
