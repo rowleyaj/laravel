@@ -3,7 +3,8 @@
     "description": "My Laravel Framework - boilerplate of laravel/laravel",
     "keywords": ["framework", "laravel"],
 	"require": {
-		"laravel/framework": "4.0.*"
+		"laravel/framework": "4.0.*",
+		"stripe/stripe-php": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
