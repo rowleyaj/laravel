@@ -8,7 +8,8 @@
 		"twilio/sdk": "dev-master"
 	},
 	"require-dev": {
-		"bca/laravel-inspect": "dev-master"
+		"bca/laravel-inspect": "dev-master",
+		"way/guard-laravel": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
