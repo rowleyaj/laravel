@@ -3,7 +3,12 @@
 <!--[if gt IE 8]><!-->  <html class="no-js" lang="en" > <!--<![endif]-->
 	<head>
 		<meta charset="utf-8" />
-		<title></title>
+		<title>
+			@section('title')
+				{{-- Insert application title here --}}
+				Application Title
+			@show
+		</title>
 
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width" />
