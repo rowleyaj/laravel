@@ -10,7 +10,12 @@
 			@show
 		</title>
 
-		<meta name="description" content="">
+		<meta name="description" content="
+			@section('description')
+				{{-- Insert application description here --}}
+				Application Description
+			@show
+			">
 		<meta name="viewport" content="width=device-width" />
 
 		<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
