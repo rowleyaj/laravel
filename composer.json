@@ -10,7 +10,8 @@
 	"require-dev": {
 		"bca/laravel-inspect": "dev-master",
 		"way/guard-laravel": "dev-master",
-		"phpunit/phpunit": "dev-master"
+		"phpunit/phpunit": "dev-master",
+		"mockery/mockery": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
