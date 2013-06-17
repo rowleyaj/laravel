@@ -9,7 +9,8 @@
 	},
 	"require-dev": {
 		"bca/laravel-inspect": "dev-master",
-		"way/guard-laravel": "dev-master"
+		"way/guard-laravel": "dev-master",
+		"phpunit/phpunit": "dev-master"
 	},
 	"autoload": {
 		"classmap": [
