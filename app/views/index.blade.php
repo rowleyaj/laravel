@@ -1,8 +1,7 @@
 @extends('layout')
 
 @section('title')
-	Index - 
-	@parent
+Index - @parent
 @stop
 
 @section('description')
